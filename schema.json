@@ -1,0 +1,27 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "Google-drive-embed",
+    "friendlyName": "Google-drive-embed",
+    "description": "An amazing Budibase component!",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "text",
+        "key": "url",
+        "label": "File/Folders url"
+      },
+      {
+        "type": "number",
+        "key": "width",
+        "label": "Width"
+      },
+      {
+        "type": "number",
+        "key": "height",
+        "label": "Height"
+      }
+    ]
+  }
+}
