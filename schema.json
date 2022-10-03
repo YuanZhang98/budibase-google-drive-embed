@@ -10,7 +10,7 @@
       {
         "type": "text",
         "key": "url",
-        "label": "File/Folders url"
+        "label": "File/Folder url"
       },
       {
         "type": "number",
